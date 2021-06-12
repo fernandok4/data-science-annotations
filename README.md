@@ -23,7 +23,7 @@
                         <a href="#discipline_3">2.2.3 Perspectiva Computacional</a>
                     </li>
                     <li>
-                        <a href="#discipline_4">2.2.4 Cientista de Dados</a>
+                        <a href="#discipline_4">2.2.4 Ciencia de Dados</a>
                     </li>
                 </ul>
             </li>
@@ -76,8 +76,8 @@ Nos últimos anos vimos um grande salto da tecnologia da informação em diverso
 
 Com tanta massa de dados, há desafios tecnicos como ferramentas, frameworks e tecnologia a ser utilizada para que possamos atender a essa vasta quantidade de dados. Entretanto, os dados estão ai, há quem diga que dados é o novo petróleo. Com a escolha certa e com bom conhecimento um mundo de novas portas é aberta.
 
-<h3 id="discipline_4">2.2.4 Cientista de Dados</h3>
+<h3 id="discipline_4">2.2.4 Ciencia de Dados</h3>
 
-O cientista de dados vem como um profissional para lidar com todas as perspectivas listadas. Claro que, alguns dos pontos não precisa ter dominio completo, afinal, muito da parte de negócio pode ser adquirida com o tempo, na experiencia, troca de informação com pessoas inclusas na parte de negócios. 
+A Ciencia de Dados vem como uma área para lidar com todas as perspectivas listadas, capturar, filtrar, manipular, analisar, exibir esses dados e trabalhar para que funcione em produção caso seja algo além de um estudo. Claro que, alguns dos pontos não precisa ter dominio completo, afinal, muito da parte de negócio pode ser adquirida com o tempo, na experiencia, troca de informação com pessoas inclusas na parte de negócios, sendo o mais certo, pois não vá tirar conclusões precipitadas sem saber sobre o dominio de negócios.
 
 Sendo assim, convido-o a ler todo o conteudo desse projeto para aprender mais sobre a profissão ou para relembrar algum conteudo. Vamos lá!?
