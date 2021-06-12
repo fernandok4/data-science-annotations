@@ -34,7 +34,6 @@
     </li>
 </ul>
 
-
 <h1 id="introducao">1. Prefácio</h1>
 
 Bem vindo as anotações e aprendizados que tive conhecendo Data Science! Nesse repositório terá desde conhecimento teórico até conhecimento prático de como e do que se trata Data Science. Seguindo de maneira inicial até a forma mais avançada para você que está aprendendo ou que esteja querendo rever algum conceito esquecido.
