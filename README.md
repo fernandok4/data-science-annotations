@@ -29,6 +29,9 @@
             </li>
         </ul>
     </li>
+    <li>
+        <a href="chapters/chapter_3/01_fundamentos.md">3. Fundamentos de Programação</a>
+    </li>
 </ul>
 
 
